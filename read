@@ -2,6 +2,12 @@ read
 
 
 
+currently two working versions - 
+generic recorder - works will all vidoe cards --- 
+cb game recorder - uses N 2000 +   gpu         
+
+
+------------------
 25 01 27 -  managed to get a working solution today
 working video recorder
 working audio recorder
