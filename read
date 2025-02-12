@@ -3,9 +3,9 @@ read
 
 
 currently two working versions - 
-generic recorder - works will all video cards --- 
-cb game recorder - uses N 2000 +   gpu        ----  beta105-opt00mp430eNOTFINAL5.cpp
-audio recorder -                                    beta11-opt00c.cpp
+generic recorder - works with _all_ video cards ----    beta11-opt00c.cpp            beta11-opt00e.cpp   
+cb game recorder - uses N 2000 +   gpu          ----    beta105-opt00mp430eNOTFINAL5.cpp
+audio recorder -                                ----    audio09b.cpp
 
 
 oerformance ---    nice   
@@ -27,10 +27,15 @@ i am workig on a game recorder - i think it is almost finished - it is a chatgpt
    i hove have most of it working - it just needs a couple minor tweaks - hopefully 
    tomorrow - a couple days - soon anyway
 
+performance is very good - but you kow - " it depends ... " 
 
+i used msys  g++  
+use the nvidia nvenc nvidia codec intall instructions -    it goes very easy with proper instructions --- 
+and not really hard to set up at all --- with proper instructions --
 
+however - bewarre of really screwey installs - it can be very complicated.
 
-
+next step - combine this into a streaming service and blow OBS out of the water ....  
 
 
 
