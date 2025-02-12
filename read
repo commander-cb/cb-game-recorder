@@ -34,9 +34,15 @@ however - bewarre of really screwey installs - it can be very complicated.
 
 next step - combine this into a streaming service and blow OBS out of the water ....  
 
+-------  this should be fine ---------------- 
+https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html
 
+i use the vs  code JUST THE COMMAND LINE - i do not install vs studio 
 
+all files brought to u by ChatGPT
 
+alternativly if you have issues with the build - try the windows driver standalone iso - Enterprise WDK (EWDK)
+https://learn.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk
 
 
 
