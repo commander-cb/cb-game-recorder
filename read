@@ -8,9 +8,6 @@ cb game recorder - uses N 2000 +   gpu          ----    beta105-opt00mp430eNOTFI
 audio recorder -                                ----    audio09b.cpp
 
 
-oerformance ---    nice   
-generic recorder  -60fps  @ 1K is was okay - whatever - as good as anything out the  60 -> 50 fps ?  ish   =  20% loss
-commander cb amazing game recorder @ 2K   125 ->  110   fps    ish         =   20 %  loss  
 
 ------------------
 25 01 27 -  managed to get a working solution today
