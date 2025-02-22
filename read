@@ -2,7 +2,14 @@ read
 
 
 
-currently two working versions - 
+currently three  working versions -   beta 40 is the best - by far
+
+
+ beta 40       new and improved - my system gives a 8% fps drop @ 1080p -=- i dont think it is noticaeable
+____________________________________________________________________________________________________________
+
+
+
 generic recorder - works with _all_ video cards ----    beta11-opt00c.cpp            beta11-opt00e.cpp   
 cb game recorder - uses N 2000 +   gpu          ----    beta105-opt00mp430eNOTFINAL5.cpp
 audio recorder -                                ----    audio09b.cpp
